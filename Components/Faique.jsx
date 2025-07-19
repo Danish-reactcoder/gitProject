@@ -5,6 +5,7 @@ const Faique = () => {
   return (
     <View>
       <Text>Faique</Text>
+      {/* shahid */}
     </View>
   )
 }
