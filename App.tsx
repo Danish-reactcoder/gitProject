@@ -4,6 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <View>
+      {/* changes */}
       <Text>App</Text>
     </View>
   )
